@@ -5,9 +5,7 @@ If you need technical development services, please go to: https://sealsc.com/  .
 
 ![Preview-1](./src/assets/preview1.png)
 
-https://www.berkshire.finance/#/
-
-![Preview-2](./src/assets/preview2.png)
+https://mxt.finance/#/
 
 #### Code update in progress, so stay tuned.
 
